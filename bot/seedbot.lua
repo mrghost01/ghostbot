@@ -228,6 +228,7 @@ function create_config( )
     "echo",
     "location",
     "time",
+    "plugins",
     "admin"
     },
     sudo_users = {205962272},--Sudo users
