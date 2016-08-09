@@ -1,22 +1,3 @@
---[[
-################################
-#                              #
-#            Aazaan            #
-#                              #
-#                              #
-#    by @Dragon_Born "Arian"   #
-#                              #
-#                              #
-#    Modified by GPMod Team    #
-#	                       #
-#                              #
-#     Update: 7 June 2016      #
-#                              #
-#                              #
-#           @GPMod             #
-#                              #
-################################
-]]
 
 do
 function run_bash(str)
@@ -90,7 +71,7 @@ function run(msg, matches)
 	  text = text..'\nغروب آفتاب: '..data.Sunset
 	  text = text..'\nاذان مغرب: '..data.Maghrib
 	  text = text..'\nعشاء : '..data.Isha
-	  text = text..'\n\n@GPMod Team'
+	  text = text..'\n\n@mr_ghost01'
 	if string.match(text, '0') then text = string.gsub(text, '0', '۰') end
 	if string.match(text, '1') then text = string.gsub(text, '1', '۱') end
 	if string.match(text, '2') then text = string.gsub(text, '2', '۲') end
