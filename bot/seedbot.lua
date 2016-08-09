@@ -229,6 +229,14 @@ function create_config( )
     "location",
     "time",
     "plugins",
+    "me",
+    "aazaan",
+    "googlesearch",
+    "googleimage",
+    "expiretime",
+    "download_media",
+    "google",
+    "img_google",
     "admin"
     },
     sudo_users = {205962272},--Sudo users
