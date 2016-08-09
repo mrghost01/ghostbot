@@ -234,9 +234,9 @@ function create_config( )
     "googlesearch",
     "googleimage",
     "expiretime",
-    "download_media",
-    "google",
-    "img_google",
+    "time",
+    "music",
+    "cal",
     "admin"
     },
     sudo_users = {205962272},--Sudo users
