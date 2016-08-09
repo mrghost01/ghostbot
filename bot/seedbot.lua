@@ -227,7 +227,6 @@ function create_config( )
     "supergroup",
     "echo",
     "location",
-    "time",
     "plugins",
     "me",
     "aazaan",
