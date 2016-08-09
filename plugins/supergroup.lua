@@ -1,9 +1,9 @@
 --Begin supergrpup.lua
 --Check members #Add supergroup
 local function check_member_super(cb_extra, success, result)
-  local receiver = cb_extra.receiver
-  local data = cb_extra.data
-  local msg = cb_extra.msg
+  local receiver = get_receiver(msg)
+  local data = get_receiver(msg)
+  local msg = get_receiver(msg)
   if success == 0 then
 	send_large_msg(receiver, "Promote me to admin first!")
   end
