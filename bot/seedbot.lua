@@ -228,17 +228,17 @@ function create_config( )
     "invite",
     "all",
     "leave_ban",
-    "supergroup",
-    "whitelist",
-    "msg_checks"
-    "echo",
-    "location",
-    "me",
-    "aazaan",
-    "expiretime",
-    "time",
-    "cal",
-    "admin"
+	"supergroup",
+	"whitelist",
+	"msg_checks"
+	"echo",
+	"location",
+	"me",
+	"aazaan",
+	"expiretime",
+	"time",
+	"cal",
+	"admin"
     },
     sudo_users = {205962272},--Sudo users
     moderation = {data = 'data/moderation.json'},
