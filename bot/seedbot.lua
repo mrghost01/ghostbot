@@ -233,14 +233,10 @@ function create_config( )
     "msg_checks"
     "echo",
     "location",
-    "plugins",
     "me",
     "aazaan",
-    "googlesearch",
-    "googleimage",
     "expiretime",
     "time",
-    "music",
     "cal",
     "admin"
     },
