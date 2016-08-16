@@ -238,6 +238,8 @@ function create_config( )
 	"expiretime",
 	"time",
 	"cal",
+	"warn",
+	"badword",
 	"admin"
     },
     sudo_users = {205962272},--Sudo users
