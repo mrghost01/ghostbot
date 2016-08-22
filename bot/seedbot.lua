@@ -240,6 +240,8 @@ function create_config( )
 	"cal",
 	"warn",
 	"badword",
+        "del",
+        "id",	
 	"admin"
     },
     sudo_users = {205962272},--Sudo users
