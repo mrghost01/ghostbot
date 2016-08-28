@@ -241,7 +241,12 @@ function create_config( )
 	"warn",
 	"badword",
         "del",
-        "id",	
+        "id",
+        "boton",
+        "enlock",
+        "info",
+        "kickall",
+        "love",
 	"admin"
     },
     sudo_users = {205962272},--Sudo users
